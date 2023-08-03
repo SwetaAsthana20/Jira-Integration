@@ -14,7 +14,6 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 @JsonPropertyOrder({
         "key"
 })
-@Generated("jsonschema2pojo")
 public class Project {
 
     @JsonProperty("key")
